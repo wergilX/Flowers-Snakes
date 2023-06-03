@@ -1,0 +1,10 @@
+
+class Snake{
+public:
+    
+  
+  
+private:
+  
+  
+};
